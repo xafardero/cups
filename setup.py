@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="cups",
-    version="0.0.1",
+    version="0.0.2",
     author="Xavier Mabras",
     author_email="xavier.mabras@protonmail.ch",
     description="A simple cups generator library",
