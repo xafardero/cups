@@ -1,3 +1,3 @@
-# CUPS
+# Random cups generator
 
-Give me a cups
+How to install it `pip install cups`
