@@ -8,8 +8,6 @@ class CupsGenerator:
     def generate(self) -> string:
         ree_id = self._generate_ree_id()
         dist_id = self._generate_dist_id()
-        print(ree_id)
-        print(dist_id)
         control = int(ree_id + dist_id) % 529
         division = control / 23
         mod = control % 23
